@@ -1,12 +1,11 @@
 # Medical Bill Extraction API
 
 ## Overview
-Medical bill extraction API using Google Gemini 1.5 Flash (FREE).
+Medical bill extraction API using Google Gemini 1.5 Flash.
 
 ## Features
 - Extracts all line items from medical bills
 - Handles PDF and images
-- 95%+ accuracy
 - Zero double-counting
 - 100% FREE (Google Gemini)
 
@@ -59,8 +58,5 @@ Visit `http://localhost:8000/docs` for interactive API documentation.
 
 ## Technology
 - FastAPI (Python)
-- Google Gemini 1.5 Flash (FREE)
+- Google Gemini 1.5 Flash
 - PyMuPDF for PDF processing
-
-## Author
-[Your Name]
